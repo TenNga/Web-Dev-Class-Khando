@@ -3,6 +3,13 @@
 ## Student
 
     - Khando
+
+## Leason to cover
+
+    - HTML
+    - CSS (Boostrap, etc...)
+    - JavaScript (Libraries)
+    - 
 ## Class List
 
   1. Aug 1nd, 2020 : Introduction to HTML
