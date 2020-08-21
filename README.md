@@ -1,16 +1,16 @@
-# Web Developement Class
+# :computer: Web Developement Class
 
-## Student
+## :woman: Student
 
     - Khando
 
-## Leason to cover
+## :books: Leason to cover
 
     - HTML
     - CSS (Boostrap, etc...)
     - JavaScript (Libraries)
     - 
-## Class List
+## :scroll: Class List
 
   1. Aug 1nd, 2020 : Introduction to HTML
        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1O47RTCt5d2aYOpouToCzKJfG2lEa58a9RuQ1N73aApo/edit?usp=sharing)
