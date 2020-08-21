@@ -20,4 +20,5 @@
      - Home Work: [GoogleDoc](https://docs.google.com/document/d/1UOlxQb3VcpIzwNCOxIClvxSX539MTcAzF7L2NBkAqIA/edit?usp=sharing)
   3. Aug 15th, 2020: HTML style attribute with property:value
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/1-B1QOoZhn1v63VPvWsOqTv-o7gsBs9a_rIoIEfGHKeQ/edit?usp=sharing)
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1PMlDCIxDoisa7rOiYjfuN_f-I3VyQBM4W5bNmXfHDk4/edit?usp=sharing)
 
