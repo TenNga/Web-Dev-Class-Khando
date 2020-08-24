@@ -9,7 +9,10 @@
     - HTML
     - CSS (Boostrap, etc...)
     - JavaScript (Libraries)
-    - 
+  
+## Class Resource: 
+- [Google Doc](https://docs.google.com/document/d/1vsvmxE730Hd_-pwgctI11M3A8GVy_olXiTkgl1q_aI0/edit?usp=sharing)
+
 ## :scroll: Class List
 
   1. Aug 1nd, 2020 : Introduction to HTML
