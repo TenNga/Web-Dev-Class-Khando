@@ -24,4 +24,8 @@
   3. Aug 15th, 2020: HTML style attribute with property:value
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/1-B1QOoZhn1v63VPvWsOqTv-o7gsBs9a_rIoIEfGHKeQ/edit?usp=sharing)
         - Home Work: [GoogleDoc](https://docs.google.com/document/d/1PMlDCIxDoisa7rOiYjfuN_f-I3VyQBM4W5bNmXfHDk4/edit?usp=sharing)
+  4. Aug 22nd, 2020: Introduction to CSS
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1UKjfpl8oO-h9pekupC0NSaq6EKqNoCcFqLAVc0Og5gA/edit?usp=sharing)
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1CgS39lKNDGs2NUhGyjxzYwZffGc-FtT1oukJSSjRe0o/edit?usp=sharing)
+  
 
