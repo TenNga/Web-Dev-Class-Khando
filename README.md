@@ -26,6 +26,12 @@
         - Home Work: [GoogleDoc](https://docs.google.com/document/d/1PMlDCIxDoisa7rOiYjfuN_f-I3VyQBM4W5bNmXfHDk4/edit?usp=sharing)
   4. Aug 22nd, 2020: Introduction to CSS
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/1UKjfpl8oO-h9pekupC0NSaq6EKqNoCcFqLAVc0Og5gA/edit?usp=sharing)
+        - Class Video: [YouTube](https://youtu.be/9JNl_H9pvwM)
         - Home Work: [GoogleDoc](https://docs.google.com/document/d/1CgS39lKNDGs2NUhGyjxzYwZffGc-FtT1oukJSSjRe0o/edit?usp=sharing)
+  
+  5. Sept 2nd, 2020: Advance HTML and some CSS
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/14jlqyqhlPl9RHoGafcquXGW3n9zMxqhmUUC4QDcuJ9g/edit?usp=sharing)
+        - Class Video: [YouTube](https://youtu.be/p6CC6I3x2mU)
+        - Home Work: [GoogleDoc]()
   
 
