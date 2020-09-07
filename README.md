@@ -32,6 +32,6 @@
   5. Sept 2nd, 2020: Advance HTML and some CSS
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/14jlqyqhlPl9RHoGafcquXGW3n9zMxqhmUUC4QDcuJ9g/edit?usp=sharing)
         - Class Video: [YouTube](https://youtu.be/p6CC6I3x2mU)
-        - Home Work: [GoogleDoc]()
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1uyhsJDUNRqGM1pTU2F1tnX3lamiPvcTYieXYDHdwqug/edit?usp=sharing)
   
 

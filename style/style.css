@@ -1,48 +1,66 @@
 /* Author: Khando
 Date */
 
-.first { 
-    font-size:30px; 
-    text-transform:uppercase; 
-    text-align: center; 
-    color: green;
-    border: 1px solid rgb(0, 0, 0)
-}
-
-.firstp {
-    background: url(https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231413/Labrador-Retriever-MP.jpg);
+body {
+    background: url(https://www.aspistrategist.org.au/wp-content/uploads/2019/04/6477880613_f0495c4af8_z.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.main-container {
+  margin: 0px 20vw;
+  background-color: white;
+  height: 100vh;
+}
+
+.firs-header { 
+    margin: 0;
+    padding: 10px;
+    font-size:50px; 
+    text-transform:uppercase; 
+    text-align: center; 
+    color: #0f8f49;
+    
+}
+
+.first-para {
     font-size: 25px; 
     text-transform: capitalize;
     padding: 10px 25px;
-    color: white;
+    color: black;
+    border-top: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(0, 0, 0);
 }
 .second{
 font-size: 30px; 
-color: #853ac2; 
+color: #0f8f49; 
 text-align: left; 
 text-transform: capitalize;
 }
-.secondp{
-border: 5px solid #FFFFFF; 
+
+.second-p{
 text-transform: capitalize; 
 font-size: 20px;
+padding-bottom: 20px;
+border-bottom: 2px solid rgb(0, 0, 0);
 }
-.firsti{
+
+/* .first-i{
 width: 40vw; 
 height: auto;
 margin: 10px 30vw;
 border: 1px solid rgb(0, 0,0 );
 padding: 20px 10px;
-}
-
-.firsti img {
-    object-fit: contain;
-    width: 300px;
-}
-
-
-/* .main-container {
-    margin: 10px 30vw;
 } */
+
+.first-image img {
+    display: block;
+    width: 500px;
+    margin: 10px auto;
+}
+
+
+.where-is-tibet{
+    margin: 5px 20px;
+}
