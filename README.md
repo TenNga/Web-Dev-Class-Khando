@@ -33,5 +33,9 @@
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/14jlqyqhlPl9RHoGafcquXGW3n9zMxqhmUUC4QDcuJ9g/edit?usp=sharing)
         - Class Video: [YouTube](https://youtu.be/p6CC6I3x2mU)
         - Home Work: [GoogleDoc](https://docs.google.com/document/d/1uyhsJDUNRqGM1pTU2F1tnX3lamiPvcTYieXYDHdwqug/edit?usp=sharing)
+  6. Sept 8th, 2020: Review and CSS Layout
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1M5fHvPct-RTVoe6JeseUE83thA5gWXKb9eN_IFTZimw/edit?usp=sharing)
+        - Class Video: [YouTube](https://youtu.be/6oAn_-Y5mT4)
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1I90t7w0A4HoFi1jU1lFkzjBxnLvmoY9trcaHqoZmHIo/edit?usp=sharing)
   
 

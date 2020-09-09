@@ -1,0 +1,54 @@
+.main-container { 
+    background: url(https://www.aspistrategist.org.au/wp-content/uploads/2019/04/6477880613_f0495c4af8_z.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.inner-container {
+    background-color: white;
+    margin: 0 10vw ;
+    height: 100vh;
+}
+
+.secondary-container {
+    margin: 0px 50vw;
+    padding: 0px;
+    background: url(https://i.ytimg.com/vi/5vLFm2gRI9Y/maxresdefault.jpg);
+}
+
+.first { 
+        font-size:30px; 
+        text-transform:uppercase; 
+        text-align: center; 
+        color: green;
+}
+.first-p {font-size: 25px; 
+        text-transform: capitalize;
+        padding: 10px 25px 10px 25px;
+        border-bottom: 1px solid rgb(0, 0, 0)
+}
+.second{
+    font-size: 30px; 
+    color: green; 
+    text-align: left;
+    text-transform: capitalize;
+}
+.second-p{
+    border: 5px solid #FFFFFF; 
+    text-transform: capitalize; 
+    font-size: 20px;
+    
+}
+
+.first-i img {
+    object-fit: cover;
+    width: 300px;
+    display: block;
+    margin: 0 auto;  
+}
+
+.first-i{
+margin: 0 auto;
+}

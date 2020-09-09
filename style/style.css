@@ -1,17 +1,27 @@
 /* Author: Khando
 Date */
 
-body {
-    background: url(https://www.aspistrategist.org.au/wp-content/uploads/2019/04/6477880613_f0495c4af8_z.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+* {
     margin: 0;
     padding: 0;
 }
+
 .main-container {
   margin: 0px 20vw;
-  background-color: white;
-  height: 100vh;
+  background-color: rgb(47, 123, 194);
+  overflow: auto;
+}
+
+.first-inner-container {
+    background-color: teal;
+    margin: 10px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.second-inner-container {
+    background-color: teal;
+    margin: 10px;
+    border: 2px solid rgb(0, 0, 0);
 }
 
 .firs-header { 
@@ -29,8 +39,7 @@ body {
     text-transform: capitalize;
     padding: 10px 25px;
     color: black;
-    border-top: 2px solid rgb(0, 0, 0);
-    border-bottom: 2px solid rgb(0, 0, 0);
+    
 }
 .second{
 font-size: 30px; 
@@ -42,25 +51,25 @@ text-transform: capitalize;
 .second-p{
 text-transform: capitalize; 
 font-size: 20px;
-padding-bottom: 20px;
-border-bottom: 2px solid rgb(0, 0, 0);
+margin: 20px;
+border: 2px solid rgb(0, 0, 0);
 }
 
-/* .first-i{
-width: 40vw; 
-height: auto;
-margin: 10px 30vw;
-border: 1px solid rgb(0, 0,0 );
-padding: 20px 10px;
-} */
+.first-image{
+width: 500px;
+margin: 0 auto;
+}
 
 .first-image img {
+    object-fit: contain;
     display: block;
-    width: 500px;
-    margin: 10px auto;
+    margin: auto;
+    height: 100%;
+    max-width: 100%;
 }
 
 
 .where-is-tibet{
+    border: 2px solid rgb(212, 212, 212);
     margin: 5px 20px;
 }
