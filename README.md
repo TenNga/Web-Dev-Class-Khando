@@ -37,5 +37,13 @@
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/1M5fHvPct-RTVoe6JeseUE83thA5gWXKb9eN_IFTZimw/edit?usp=sharing)
         - Class Video: [YouTube](https://youtu.be/6oAn_-Y5mT4)
         - Home Work: [GoogleDoc](https://docs.google.com/document/d/1I90t7w0A4HoFi1jU1lFkzjBxnLvmoY9trcaHqoZmHIo/edit?usp=sharing)
+  7. Sept 16th, 2020: Building a full layout website
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1uK_LELLXUcLFf-_kfYeEN51-PSX9zSbiDhANILArWRE/edit?usp=sharing)
+        - Class Video: [YouTube](https://www.youtube.com/watch?v=zHDaSDBK0XE&feature=youtu.be)
+  8. Sept 8th, 2020: Review and CSS Layout
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1uK_LELLXUcLFf-_kfYeEN51-PSX9zSbiDhANILArWRE/edit)
+        - Class Video: [YouTube](https://www.youtube.com/watch?v=9iLI26VYf1k&feature=youtu.be)
+        - Home Work: [GoogleDoc]()
+  
   
 

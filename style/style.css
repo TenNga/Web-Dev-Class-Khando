@@ -5,71 +5,172 @@ Date */
     margin: 0;
     padding: 0;
 }
-
+/* 
 .main-container {
   margin: 0px 20vw;
-  background-color: rgb(47, 123, 194);
+  background-color: #cf99c9;
   overflow: auto;
 }
 
-.first-inner-container {
-    background-color: teal;
-    margin: 10px;
-    border: 2px solid rgb(0, 0, 0);
+.header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #cf99c9;
+    width: 100vw;
+    height: 4rem;
+    align-items: center;
+    justify-content: space-between
+}
+.header .logo {
+    margin-left: 21vw;
+    color: wheat;
+    font-size: 2rem;
 }
 
-.second-inner-container {
-    background-color: teal;
-    margin: 10px;
-    border: 2px solid rgb(0, 0, 0);
+.nav-bar ul{
+    list-style: none;
+    display: flex;
+    margin-right: 21vw;
+    color: wheat;
+    font-size: 1.5rem;
+    text-transform: uppercase;
 }
 
-.firs-header { 
-    margin: 0;
+.nav-bar li {
+    margin-left: 1.5rem;
+}
+
+.banner img{
+    width: 100%;
+    margin-top: 4rem;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.card {
+    display: grid;
+    grid-template-rows: 2fr .5fr .5fr .5fr;
+    margin: 1rem 2rem;
+    padding: 1rem;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    border: 1px solid whitesmoke;
+    border-radius: 7px;
+}
+
+.card img{
+    max-width: 20rem;
+    height: 17rem;
+}
+
+.card h3{
+    color: wheat;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+}
+
+.card p {
+    margin: 0.5rem 1rem;
+}
+
+.card button {
+    width: 5rem;
+    padding: 0.2rem;
+    border-style: none;
+    border-radius: 5px;
+    font-weight: bolder;
+    color: tomato;
+} */
+
+.main-container {
+    background-color: #db8f8f;
+    margin: 0 10vw;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    height: 6vw;
+    background-color: #db8f8f;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.logo h2 {
+    margin-left: 10vw;
+}
+
+.header h2 {
+    color: wheat;
+    font-size: 40px;
+}
+
+.nav-bar ul {
+    display: flex;
+    margin-right: 12vw;
+    list-style: none;
+}
+
+.nav-bar li {
+    margin-right: 20px;
+    color: wheat;
+    font-size: 20px;
+}
+
+.nav-bar li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+.banner img{
+    width: 100%;
+    margin-top: 6vw;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.card {
+    background-color: rgb(248, 155, 50);
+    text-align: center;
+    margin: 10px;
     padding: 10px;
-    font-size:50px; 
-    text-transform:uppercase; 
-    text-align: center; 
-    color: #0f8f49;
-    
+    border: 1px solid white;
+    border-radius: 7px;
 }
 
-.first-para {
-    font-size: 25px; 
-    text-transform: capitalize;
-    padding: 10px 25px;
-    color: black;
-    
-}
-.second{
-font-size: 30px; 
-color: #0f8f49; 
-text-align: left; 
-text-transform: capitalize;
+.card img{
+    width: 200px;
+    height: 170px;
 }
 
-.second-p{
-text-transform: capitalize; 
-font-size: 20px;
-margin: 20px;
-border: 2px solid rgb(0, 0, 0);
+.card h3 {
+    margin: 5px 0px;
+    color: wheat;
 }
 
-.first-image{
-width: 500px;
-margin: 0 auto;
+.card p {
+    margin-bottom: 10px;
 }
 
-.first-image img {
-    object-fit: contain;
-    display: block;
-    margin: auto;
-    height: 100%;
-    max-width: 100%;
+.card button {
+    width: 100px;
+    height: 20px;
+    border-style: none;
+    border-radius: 7px;
+    font-weight: bolder;
 }
 
-
-.where-is-tibet{
-    border: 2px solid rgb(212, 212, 212);
-    margin: 5px 20px;
-}
