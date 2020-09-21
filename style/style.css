@@ -90,7 +90,8 @@ Date */
 } */
 
 .main-container {
-    background-color: #db8f8f;
+    background-color: #c963cf;
+    min-height: 100vh;
     margin: 0 10vw;
 }
 
@@ -100,7 +101,7 @@ Date */
     align-items: center;
     width: 100vw;
     height: 6vw;
-    background-color: #db8f8f;
+    background-color: #c963cf;
     position: absolute;
     top: 0;
     left: 0;
@@ -111,7 +112,7 @@ Date */
 }
 
 .header h2 {
-    color: wheat;
+    color: whitesmoke;
     font-size: 40px;
 }
 
@@ -123,7 +124,7 @@ Date */
 
 .nav-bar li {
     margin-right: 20px;
-    color: wheat;
+    color: whitesmoke;
     font-size: 20px;
 }
 
@@ -144,7 +145,8 @@ Date */
 }
 
 .card {
-    background-color: rgb(248, 155, 50);
+    background-color: #872f82;
+    color: whitesmoke;
     text-align: center;
     margin: 10px;
     padding: 10px;

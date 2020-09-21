@@ -43,7 +43,7 @@
   8. Sept 8th, 2020: Review and CSS Layout
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/1uK_LELLXUcLFf-_kfYeEN51-PSX9zSbiDhANILArWRE/edit)
         - Class Video: [YouTube](https://www.youtube.com/watch?v=9iLI26VYf1k&feature=youtu.be)
-        - Home Work: [GoogleDoc]()
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1vrq3hMwHrqBWqdhkU7bDFVNSqj5hGn9KbNp6pHvYVi8/edit?usp=sharing)
   
   
 
