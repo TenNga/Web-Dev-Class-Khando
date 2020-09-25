@@ -40,10 +40,13 @@
   7. Sept 16th, 2020: Building a full layout website
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/1uK_LELLXUcLFf-_kfYeEN51-PSX9zSbiDhANILArWRE/edit?usp=sharing)
         - Class Video: [YouTube](https://www.youtube.com/watch?v=zHDaSDBK0XE&feature=youtu.be)
-  8. Sept 8th, 2020: Review and CSS Layout
+  8. Sept 8th, 2020: Intro to JavaScript
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/1uK_LELLXUcLFf-_kfYeEN51-PSX9zSbiDhANILArWRE/edit)
         - Class Video: [YouTube](https://www.youtube.com/watch?v=9iLI26VYf1k&feature=youtu.be)
         - Home Work: [GoogleDoc](https://docs.google.com/document/d/1vrq3hMwHrqBWqdhkU7bDFVNSqj5hGn9KbNp6pHvYVi8/edit?usp=sharing)
-  
+  9. Sept 23rd, 2020: JavaScript concept - datatype,function
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1D9AHAa-cfbBPjrJl6DcFxcs4G6tmHW1asstIh4C41YQ/edit?usp=sharing)
+        - Class Video: [YouTube](https://youtu.be/oxj-7YeHwbU)
+        - Home Work: [GoogleDoc]()
   
 
