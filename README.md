@@ -47,6 +47,6 @@
   9. Sept 23rd, 2020: JavaScript concept - datatype,function
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/1D9AHAa-cfbBPjrJl6DcFxcs4G6tmHW1asstIh4C41YQ/edit?usp=sharing)
         - Class Video: [YouTube](https://youtu.be/oxj-7YeHwbU)
-        - Home Work: [GoogleDoc]()
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1WhFQm3ACid4djsfHUaR3QF7wNrnZUtDlsN9YWUWPmL0/edit?usp=sharing)
   
 
