@@ -48,5 +48,9 @@
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/1D9AHAa-cfbBPjrJl6DcFxcs4G6tmHW1asstIh4C41YQ/edit?usp=sharing)
         - Class Video: [YouTube](https://youtu.be/oxj-7YeHwbU)
         - Home Work: [GoogleDoc](https://docs.google.com/document/d/1WhFQm3ACid4djsfHUaR3QF7wNrnZUtDlsN9YWUWPmL0/edit?usp=sharing)
+  10. Sept 30th, 2020: JavaScript concept - String, Array
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1UCJo36wQwztSUTvlOGP71g6ehM9p49q_XFtDxc41oEA/edit?usp=sharing)
+        - Class Video: [YouTube](https://youtu.be/0bCfGY-_QN4)
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1WhFQm3ACid4djsfHUaR3QF7wNrnZUtDlsN9YWUWPmL0/edit?usp=sharing)
   
 
