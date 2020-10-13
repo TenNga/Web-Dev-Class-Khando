@@ -55,6 +55,6 @@
   11. Sept 30th, 2020: JavaScript concept - Array Sort
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/16Wy2B-F4cV24NZe_irqcneAnLa_2zBgDNSuXzb8eb78/edit?usp=sharing)
         - Class Video: [YouTube](https://youtu.be/bkOlwDyyDZw)
-        - Home Work: [GoogleDoc]()
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1fdVpf8g4qgKvvB2QB3s7jnsu2zAT7eAk1xZ0j7E5OH8/edit?usp=sharing)
   
 
