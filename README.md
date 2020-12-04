@@ -56,5 +56,30 @@
         - Class Note: [GoogleDoc](https://docs.google.com/document/d/16Wy2B-F4cV24NZe_irqcneAnLa_2zBgDNSuXzb8eb78/edit?usp=sharing)
         - Class Video: [YouTube](https://youtu.be/bkOlwDyyDZw)
         - Home Work: [GoogleDoc](https://docs.google.com/document/d/1fdVpf8g4qgKvvB2QB3s7jnsu2zAT7eAk1xZ0j7E5OH8/edit?usp=sharing)
+  12. Sept 30th, 2020: JavaScript concept - if statement
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1moavqsFt69jBBbAdsaEod0JjWypuxqb2ZwU7yRGX9FE/edit?usp=sharing)
+        - Class Video: [YouTube](https://youtu.be/RBwtMor6mIk)
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1oo3jXfMrY3YyCd27vPNqf9kR3TOmcGZnrdOq6_spfgY/edit?usp=sharing)
+  13. Sept 30th, 2020: JavaScript concept - Loops
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1PHGM-5ivfYpDwzwQwhxUtQtO_YM4buOfX5D5_am9wdg/edit?usp=sharing)
+        - Class Video: [YouTube](https://youtu.be/hEt0a-YwiHw)
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1lgWYKXo3TSsPsk_6N4aD3VUA73wbXzydzmVfZ38mRho/edit?usp=sharing)
+  14. Sept 30th, 2020: JavaScript concept - Functions
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1OKPfP7EI3cNNz_6592JNz7pQsrVUfqhHIm55HWodYS0/edit?usp=sharing)
+        - Class Video: [YouTube](https://youtu.be/focaifzb5sM)
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1qLnfpkOgV1i2O_UhfbNzYDrwFLXoXpzEjvosV3DOgYA/edit?usp=sharing)
+  15. Sept 30th, 2020: JavaScript concept - Function Exercise
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1qymS_q60hrTDv66NdN9OJl84BhSbajp4fMagNfl_A48/edit?usp=sharing)
+        - Class Video: [YouTube](https://www.youtube.com/watch?v=S2uroZWdMTY)
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1xB0yEA4XVW4xOoOAmCctIr349dDS9LLESSZ6VDP0jbI/edit?usp=sharing)
+  16. Sept 30th, 2020: JavaScript concept - Test Review
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1fDXfeu25RxBlmsd6Sf1-op9pQON7rxvqeW0SzbsnZrI/edit?usp=sharing)
+        - Class Video: [YouTube](https://youtu.be/1P95bTzngx0)
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1fDXfeu25RxBlmsd6Sf1-op9pQON7rxvqeW0SzbsnZrI/edit?usp=sharing)
+  17. Sept 30th, 2020: JavaScript concept - Web Development Review
+        - Class Note: [GoogleDoc](https://docs.google.com/document/d/1gsHF2LRzmAX7o-4q4OrDu5otaaoucV_T-KZDnVAhVHI/edit?usp=sharing)
+        - Class Video: [YouTube](https://www.youtube.com/watch?v=UMQjZl67ZHI)
+        - Home Work: [GoogleDoc](https://docs.google.com/document/d/1gsHF2LRzmAX7o-4q4OrDu5otaaoucV_T-KZDnVAhVHI/edit?usp=sharing)
+  
   
 
